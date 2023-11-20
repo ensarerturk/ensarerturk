@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ensar ERTÜRK</h1>
-<h3 align="center">Hello, I'm Ensar Erturk. I graduated from Ondokuz Mayıs University computer engineering in March 2023. I was Head of the Cyber Security community at the university from 2019-2021. With the "İngilizce Fırsatım 2021" program organized by Sabancı Holding at the university, I received 1 year free English education from Berlitz Language Schools. I did my internship on Secure Software Development at Deepcase. I worked as a Test and Automation Engineer at Netaş company part-time and full-time.
+<h3 align="center">Merhaba, ben Ensar Ertürk. Mart 2023'te Ondokuz Mayıs Üniversitesi bilgisayar mühendisliğinden mezun oldum. Üniversitede 2019-2021 yılları arasında Siber Güvenlik topluluk başkanlığı yaptım. "İngilizce Fırsatım 2021" programı ile Berlitz Dil Okulları'ndan 1 yıl ücretsiz İngilizce eğitimi aldım. Deepcase'de Güvenli Yazılım Geliştirme üzerine staj yaptım. Netaş firmasında yarı zamanlı ve tam zamanlı olarak Test ve Otomasyon Mühendisi olarak çalıştım.
 
-I have done test automation in Türk Telekom and Turkcell CRM applications, mainly web test. I wrote Selenium web automation in Java using gherkin language and cucumber. I checked Oracle SQL DB for data, Bitbucket as Git, Appium for mobile apps and Jenkins for runs. Currently, I am responsible for Framework writing and support works in the Friday project in the Turkcell team.
+Türk Telekom ve Turkcell CRM uygulamalarında çalıştım. Şu anda Turkcell ekibinde Friday projesinde Test&Automation Developer olarak Framework yazımı ve destek işlerinden sorumluyum.
 
-At the same time, I am working with Spring and Node.js on the backend side and I am studying at Akbank Java Spring Bootcamp organized by Patika.dev.</h3>
+Aynı zamanda Java, Spring, C#, .Net üzerine çalışmaktayım ve projeler geliştiriyorum. Çalışmalarıma destek olması için Akbank Java Spring Bootcamp'i ve Fimle .Net bootcamp'i alıyorum.</h3>
 
 - 📫 How to reach me **ensarerturk15@gmail.com**
 
