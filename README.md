@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ensar ERTÜRK</h1>
-<h3 style="text-align: left;">Hello, I am Ensar Ertürk. I graduated from Ondokuz Mayıs University, Department of Computer Engineering in March 2023. I was the president of the Cyber Security community at the university between 2019-2021. I received 1 year of free English education from Berlitz Language Schools with the "English Opportunity 2021" program. I did an internship on Secure Software Development at Deepcase. I worked part-time and full-time as a Test and Automation Engineer at Netaş.
+<h3 style="text-align: left;">Hello, I am Ensar Ertürk. I graduated from Ondokuz Mayıs University, Department of Computer Engineering in March 2023. I was the president of the Cyber Security community at the university between 2019-2021. I received 1 year of free English education from Berlitz Language Schools with the "English Opportunity 2021" program. I did an internship on Secure Software Development at Deepcase. I worked part-time and full-time as a Test and Automation Engineer at Netaş. I worked in Türk Telekom and Turkcell CRM applications. 
 
-I worked in Türk Telekom and Turkcell CRM applications. Currently, I am responsible for Framework writing and support as a Test & Automation Developer in the Friday project in Turkcell team.
+Currently, I am responsible for Framework writing and support as a Test & Automation Developer in the Friday project in Turkcell team.
 
 I am also working on Java, Spring, C#, .Net and developing projects. I am taking Akbank Java Spring Bootcamp and Fimle .Net bootcamp to support my work.</h3>
 
