@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ensar ERTÜRK</h1>
-<h3>Merhaba, ben Ensar Ertürk. Mart 2023'te Ondokuz Mayıs Üniversitesi bilgisayar mühendisliğinden mezun oldum. Üniversitede 2019-2021 yılları arasında Siber Güvenlik topluluk başkanlığı yaptım. "İngilizce Fırsatım 2021" programı ile Berlitz Dil Okulları'ndan 1 yıl ücretsiz İngilizce eğitimi aldım. Deepcase'de Güvenli Yazılım Geliştirme üzerine staj yaptım. Netaş firmasında yarı zamanlı ve tam zamanlı olarak Test ve Otomasyon Mühendisi olarak çalıştım.
+<h3 style="text-align: left;">Merhaba, ben Ensar Ertürk. Mart 2023'te Ondokuz Mayıs Üniversitesi bilgisayar mühendisliğinden mezun oldum. Üniversitede 2019-2021 yılları arasında Siber Güvenlik topluluk başkanlığı yaptım. "İngilizce Fırsatım 2021" programı ile Berlitz Dil Okulları'ndan 1 yıl ücretsiz İngilizce eğitimi aldım. Deepcase'de Güvenli Yazılım Geliştirme üzerine staj yaptım. Netaş firmasında yarı zamanlı ve tam zamanlı olarak Test ve Otomasyon Mühendisi olarak çalıştım.
 
 Türk Telekom ve Turkcell CRM uygulamalarında çalıştım. Şu anda Turkcell ekibinde Friday projesinde Test&Automation Developer olarak Framework yazımı ve destek işlerinden sorumluyum.
 
